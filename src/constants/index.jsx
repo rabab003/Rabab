@@ -49,7 +49,7 @@ export const PROJECTS = [
       "A sleek, black-themed portfolio website built with React.js, Vite, and Tailwind CSS. Featuring multiple sections, this responsive design showcases work in a visually engaging and modern layout.",
     techStack: ["React js", "tailwind css", "framer motion "],
     imgSrc: project2,
-    link: "https://github.com/rabab003/modernReactPortfolio",
+    link: "modern-react-portfolio-seven.vercel.app",
   },
   {
     id: 3,
