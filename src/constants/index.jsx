@@ -72,12 +72,12 @@ export const PROJECTS = [
   },
   {
     id: 5,
-    title: "Namari Landing Page",
+    title: "Event Registration Form",
     description:
-      "A static landing page for the startup Namari, developed with HTML, CSS, JavaScript, and Tailwind CSS. This design offers a professional, elegant layout to showcase the company’s brand and services.",
-    techStack: ["HTML","Tailwind Css"],
+      "A clean and modern booking form built with React and Tailwind CSS. This form captures user data like name, email, phone number, type of tech event, gender, and available dates. It includes custom styling, dark mode elements, and interactive inputs.",
+    techStack: ["HTML","Tailwind Css", "react js",],
     imgSrc: project5,
-    link: "https://github.com/rabab003/tailwind/tree/main/namary",
+    link: "https://github.com/rabab003/Event-Registration-Form-react-js-tailwind-css-",
   },
   {
     id: 6,
