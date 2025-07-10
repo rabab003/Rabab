@@ -2,7 +2,7 @@ import project1 from "../assets/Instagram post - 8.png";
 import project2 from "../assets/port.png";
 import project3 from "../assets/t.png";
 import project4 from "../assets/logoP.png";
-import project5 from "../assets/bgPic";
+import project5 from "../assets/bgPic.png";
 import project6 from "../assets/Instagram post - 31.png";
 // import personImage from "../assets/testimonial.webp";
 
